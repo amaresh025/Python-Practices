@@ -23,5 +23,6 @@ class Product(Items):
 
 my_shop = Product("ipad", 25000, 50, 1, "apple")
 my_shop.all_details()
-my_shop.show_details()
+
+
 
