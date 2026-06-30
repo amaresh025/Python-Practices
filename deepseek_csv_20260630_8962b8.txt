@@ -1,0 +1,441 @@
+Tool Name,Website URL
+ChatGPT,https://chat.openai.com
+Claude,https://claude.ai
+Perplexity AI,https://www.perplexity.ai
+Midjourney,https://www.midjourney.com
+RunwayML,https://runwayml.com
+Copy.ai,https://www.copy.ai
+Jasper,https://www.jasper.ai
+Writesonic,https://writesonic.com
+Rytr,https://rytr.me
+Grammarly,https://www.grammarly.com
+Cursor,https://www.cursor.so
+Codeium,https://www.codeium.com
+Tabnine,https://www.tabnine.com
+Replit,https://replit.com
+GitHub Copilot,https://github.com/features/copilot
+Fliki,https://fliki.ai
+Synthesia,https://www.synthesia.io
+HeyGen,https://www.heygen.com
+Elai.io,https://elai.io
+Pictory,https://pictory.ai
+Durable,https://durable.co
+10Web,https://10web.io
+Bookmark,https://www.bookmark.com
+Uizard,https://uizard.io
+Canva,https://www.canva.com
+Looka,https://looka.com
+Namelix,https://namelix.com
+Brandmark,https://brandmark.io
+Designs.ai,https://designs.ai
+Beautiful.ai,https://www.beautiful.ai
+Gamma,https://gamma.app
+SlidesAI,https://www.slidesai.io
+Tome,https://tome.app
+ChatPDF,https://www.chatpdf.com
+AskYourPDF,https://askyourpdf.com
+Humata AI,https://www.humata.ai
+Monica,https://monica.im
+Merlin,https://merlin.foyer.work
+Poe,https://poe.com
+You.com,https://you.com
+Phind,https://phind.com
+Andi Search,https://andisearch.com
+Neeva,https://neeva.com
+Krea,https://www.krea.ai
+Leonardo AI,https://leonardo.ai
+Playground AI,https://playgroundai.com
+NightCafe,https://nightcafe.studio
+Stable Diffusion,https://stability.ai
+DALL-E,https://openai.com/dall-e-2
+Imagen,https://imagen.google
+Murf AI,https://murf.ai
+ElevenLabs,https://elevenlabs.io
+Play.ht,https://play.ht
+Lovo AI,https://lovo.ai
+Resemble AI,https://www.resemble.ai
+WellSaid Labs,https://wellsaidlabs.com
+Speechify,https://speechify.com
+Otter AI,https://otter.ai
+Fireflies AI,https://fireflies.ai
+Krisp,https://krisp.ai
+Boomy,https://boomy.com
+Soundraw,https://soundraw.io
+Mubert,https://mubert.com
+Splash,https://www.splashmusic.com
+Beatoven,https://www.beatoven.ai
+Zapier,https://zapier.com
+Make,https://www.make.com
+n8n,https://n8n.io
+Bardeen,https://bardeen.ai
+Axiom,https://axiom.ai
+Browse AI,https://browse.ai
+Relevance AI,https://relevanceai.com
+LangChain,https://www.langchain.com
+Pinecone,https://www.pinecone.io
+Weaviate,https://weaviate.io
+Hugging Face,https://huggingface.co
+Replicate,https://replicate.com
+Banana,https://banana.dev
+Modal,https://modal.com
+RunPod,https://runpod.io
+Vercel AI,https://vercel.ai
+Vellum,https://www.vellum.ai
+Humanloop,https://humanloop.com
+PromptLayer,https://promptlayer.com
+Continual,https://continual.ai
+DataRobot,https://www.datarobot.com
+Akkio,https://www.akkio.com
+Obviously AI,https://www.obviously.ai
+NoCode AI,https://www.nocodeai.io
+Airtable,https://airtable.com
+Notion,https://notion.so
+Mem,https://mem.ai
+Reflect,https://reflect.app
+Taskade,https://www.taskade.com
+Motion,https://www.motionapp.com
+ClickUp,https://clickup.com
+Asana,https://asana.com
+Monday.com,https://monday.com
+Smartsheet,https://www.smartsheet.com
+Coda,https://coda.io
+Airtable,https://airtable.com
+Bubble,https://bubble.io
+Glide,https://www.glideapps.com
+Adalo,https://www.adalo.com
+Thunkable,https://thunkable.com
+FlutterFlow,https://flutterflow.io
+Directual,https://www.directual.com
+NoCode,https://nocode.tech
+WeWeb,https://www.weweb.io
+Softr,https://www.softr.io
+Stacker,https://www.stackerhq.com
+Noloco,https://noloco.io
+Draftbit,https://draftbit.com
+AppGyver,https://www.appgyver.com
+Backendless,https://backendless.com
+Supabase,https://supabase.com
+Firebase,https://firebase.google.com
+Appwrite,https://appwrite.io
+Xano,https://www.xano.com
+Rowy,https://www.rowy.io
+Budibase,https://budibase.com
+ToolJet,https://tooljet.com
+Appsmith,https://www.appsmith.com
+UI Bakery,https://uibakery.io
+Process Street,https://www.process.st
+KiSSFLOW,https://www.kissflow.com
+Tally,https://tally.so
+Typeform,https://www.typeform.com
+Jotform,https://www.jotform.com
+Cognito Forms,https://www.cognitoforms.com
+Monday Work OS,https://monday.com
+ClickUp,https://clickup.com
+Notion,https://notion.so
+Coda,https://coda.io
+Airtable,https://airtable.com
+SmartSuite,https://www.smartsuite.com
+Baserow,https://baserow.io
+NocoDB,https://nocodb.com
+Teable,https://teable.io
+Grist,https://www.getgrist.com
+Rows,https://rows.com
+Retool,https://retool.com
+Internal,https://www.internal.io
+HashiCorp,https://www.hashicorp.com
+Terraform,https://www.terraform.io
+Pulumi,https://www.pulumi.com
+Crossplane,https://crossplane.io
+Kubecost,https://www.kubecost.com
+Artifact,https://artifact.news
+DiffusionBee,https://diffusionbee.com
+Playground AI,https://playgroundai.com
+Lexica,https://lexica.art
+PromptBase,https://promptbase.com
+PromptHero,https://prompthero.com
+PromptBox,https://www.promptbox.ai
+PromptLayer,https://promptlayer.com
+Humanloop,https://humanloop.com
+Vellum,https://www.vellum.ai
+Scale AI,https://scale.com
+Labelbox,https://labelbox.com
+Encord,https://encord.com
+Dataloop,https://dataloop.ai
+Superb AI,https://superb-ai.com
+L7,https://www.l7.gg
+Segment,https://segment.com
+Mixpanel,https://mixpanel.com
+Amplitude,https://amplitude.com
+Heap,https://heap.io
+Fullstory,https://www.fullstory.com
+Hotjar,https://www.hotjar.com
+Crazy Egg,https://www.crazyegg.com
+VWO,https://vwo.com
+Optimizely,https://www.optimizely.com
+Google Optimize,https://optimize.google.com
+AB Tasty,https://www.abtasty.com
+Convert,https://www.convert.com
+Mutiny,https://www.mutinyhq.com
+Intellimize,https://www.intellimize.com
+Dynamic Yield,https://www.dynamicyield.com
+Evergage,https://www.evergage.com
+Salesforce,https://www.salesforce.com
+HubSpot,https://www.hubspot.com
+Marketo,https://www.marketo.com
+Pardot,https://www.pardot.com
+Mailchimp,https://mailchimp.com
+Klaviyo,https://www.klaviyo.com
+ActiveCampaign,https://www.activecampaign.com
+ConvertKit,https://convertkit.com
+Drip,https://www.drip.com
+Omnisend,https://www.omnisend.com
+SendGrid,https://sendgrid.com
+Sendinblue,https://www.sendinblue.com
+MailerLite,https://www.mailerlite.com
+GetResponse,https://www.getresponse.com
+AWeber,https://www.aweber.com
+Constant Contact,https://www.constantcontact.com
+Campaign Monitor,https://www.campaignmonitor.com
+Mad Mimi,https://www.madmimi.com
+Mailjet,https://www.mailjet.com
+Amazon SES,https://aws.amazon.com/ses
+Postmark,https://postmarkapp.com
+SparkPost,https://www.sparkpost.com
+Mailgun,https://www.mailgun.com
+SendPulse,https://sendpulse.com
+Moosend,https://moosend.com
+GetEmail.io,https://getemail.io
+Clearbit,https://clearbit.com
+Hunter,https://hunter.io
+Apollo,https://www.apollo.io
+ZoomInfo,https://www.zoominfo.com
+Lusha,https://www.lusha.com
+Leadfeeder,https://www.leadfeeder.com
+LeadIQ,https://leadiq.com
+SalesLoft,https://salesloft.com
+Outreach,https://outreach.io
+Reply.io,https://reply.io
+Yesware,https://www.yesware.com
+Mixmax,https://mixmax.com
+Gong,https://www.gong.io
+Chorus,https://www.chorus.ai
+Clari,https://clari.com
+People.ai,https://people.ai
+Grid,https://grid.is
+Mural,https://www.mural.co
+Miro,https://miro.com
+FigJam,https://www.figma.com/figjam
+Whimsical,https://whimsical.com
+MindMeister,https://www.mindmeister.com
+Coggle,https://coggle.it
+Lucidspark,https://lucidspark.com
+Conceptboard,https://conceptboard.com
+Stormboard,https://stormboard.com
+Klaxoon,https://klaxoon.com
+Teamflow,https://www.teamflowhq.com
+Kosy,https://www.kosyoffice.com
+Gather,https://gather.town
+Spatial,https://spatial.io
+Virbela,https://www.virbela.com
+Glow,https://glow.app
+Hopin,https://hopin.com
+Run The World,https://www.runtheworld.today
+Mozilla Hubs,https://hubs.mozilla.com
+WorkAdventure,https://workadventu.re
+Topia,https://topia.io
+Wonder,https://wonder.me
+Gatheround,https://www.gatheround.com
+Butter,https://butter.us
+Mentimeter,https://www.mentimeter.com
+Slido,https://www.slido.com
+Poll Everywhere,https://www.polleverywhere.com
+Vevox,https://www.vevox.com
+Ahoy,https://ahoy.com
+TeamRetro,https://www.teamretro.com
+FunRetro,https://funretro.io
+Retrium,https://www.retrium.com
+Neatro,https://neatro.io
+Metro Retro,https://metroretro.io
+Scatterspoke,https://scatterspoke.com
+Parabol,https://www.parabol.co
+Actionable,https://actionable.co
+Hypercontext,https://hypercontext.com
+15Five,https://www.15five.com
+Lattice,https://lattice.com
+Culture Amp,https://www.cultureamp.com
+Officevibe,https://officevibe.com
+Impraise,https://impraise.com
+Small Improvements,https://www.small-improvements.com
+Reflektive,https://reflektive.com
+Cooleaf,https://cooleaf.com
+Bonusly,https://bonusly.com
+Kazoo,https://www.kazoo.com
+WorkTango,https://worktango.com
+Motivosity,https://www.motivosity.com
+Achievers,https://www.achievers.com
+Nectar,https://nectarhr.com
+Giftogram,https://www.giftogram.com
+Snappy,https://snappygifts.com
+Awardco,https://www.awardco.com
+Terryberry,https://www.terryberry.com
+Guusto,https://guusto.com
+Handshake,https://www.joinhandshake.com
+Symplicity,https://www.symplicity.com
+12Twenty,https://www.12twenty.com
+GradLeaders,https://www.gradleaders.com
+StudentBridge,https://www.studentbridge.com
+CampusReel,https://www.campusreel.org
+ZeeMee,https://www.zeemee.com
+SchooLinks,https://www.schoolinks.com
+MaiaLearning,https://www.maialearning.com
+Naviance,https://www.naviance.com
+SCOIR,https://www.scoir.com
+College Board,https://www.collegeboard.org
+Common App,https://www.commonapp.org
+Coalition,https://www.coalitionforcollegeaccess.org
+ScholarshipOwl,https://www.scholarshipowl.com
+Bold.org,https://bold.org
+Scholly,https://myscholly.com
+Niche,https://www.niche.com
+Unigo,https://www.unigo.com
+Cappex,https://www.cappex.com
+College Confidential,https://www.collegeconfidential.com
+Student Loan Hero,https://studentloanhero.com
+EduBirdie,https://edubirdie.com
+Course Hero,https://www.coursehero.com
+Chegg,https://www.chegg.com
+Quizlet,https://quizlet.com
+Studocu,https://www.studocu.com
+PaperHelp,https://paperhelp.org
+Study.com,https://study.com
+Khan Academy,https://www.khanacademy.org
+Coursera,https://www.coursera.org
+edX,https://www.edx.org
+Udemy,https://www.udemy.com
+Udacity,https://www.udacity.com
+Skillshare,https://www.skillshare.com
+LinkedIn Learning,https://www.linkedin.com/learning
+Pluralsight,https://www.pluralsight.com
+Codecademy,https://www.codecademy.com
+freeCodeCamp,https://www.freecodecamp.org
+The Odin Project,https://www.theodinproject.com
+DataCamp,https://www.datacamp.com
+AlgoExpert,https://www.algoexpert.io
+HackerRank,https://www.hackerrank.com
+LeetCode,https://leetcode.com
+CodeSignal,https://codesignal.com
+Codewars,https://www.codewars.com
+Topcoder,https://www.topcoder.com
+Interview Cake,https://www.interviewcake.com
+Byteboard,https://byteboard.dev
+Karat,https://karat.com
+HackerEarth,https://www.hackerearth.com
+Coderbyte,https://coderbyte.com
+Skillsoft,https://www.skillsoft.com
+Degreed,https://degreed.com
+Guild,https://www.guildeducation.com
+BetterUp,https://www.betterup.com
+Torch,https://torch.io
+Evolve,https://www.evolveinc.io
+Pursuit,https://pursuit.org
+Lambda School,https://lambdaschool.com
+Flatiron School,https://flatironschool.com
+General Assembly,https://generalassemb.ly
+Thinkful,https://www.thinkful.com
+Galvanize,https://www.galvanize.com
+Ironhack,https://www.ironhack.com
+Le Wagon,https://www.lewagon.com
+Hack Reactor,https://www.hackreactor.com
+App Academy,https://www.appacademy.io
+Fullstack Academy,https://www.fullstackacademy.com
+Grace Hopper,https://gracehopper.com
+Turing,https://www.turing.com
+2U,https://2u.com
+Cengage,https://www.cengage.com
+Pearson,https://www.pearson.com
+McGraw Hill,https://www.mheducation.com
+Wiley,https://www.wiley.com
+Cambridge,https://www.cambridge.org
+Oxford,https://www.oup.com
+Taylor & Francis,https://www.tandfonline.com
+Sage,https://sagepub.com
+Springer,https://www.springer.com
+Elsevier,https://www.elsevier.com
+Emerald,https://www.emerald.com
+De Gruyter,https://www.degruyter.com
+Brill,https://brill.com
+MIT Press,https://mitpress.mit.edu
+Harvard Press,https://www.hup.harvard.edu
+Yale Press,https://yalebooks.yale.edu
+Princeton Press,https://press.princeton.edu
+Columbia Press,https://cup.columbia.edu
+Stanford Press,https://www.sup.org
+Berkeley Press,https://www.ucpress.edu
+Chicago Press,https://press.uchicago.edu
+UPenn Press,https://www.pennpress.org
+Duke Press,https://www.dukeupress.edu
+Michigan Press,https://www.press.umich.edu
+JSTOR,https://www.jstor.org
+Google Scholar,https://scholar.google.com
+PubMed,https://pubmed.ncbi.nlm.nih.gov
+arXiv,https://arxiv.org
+bioRxiv,https://www.biorxiv.org
+medRxiv,https://www.medrxiv.org
+SSRN,https://www.ssrn.com
+ResearchGate,https://www.researchgate.net
+Academia,https://www.academia.edu
+Semantic Scholar,https://www.semanticscholar.org
+Sci-Hub,https://sci-hub.se
+Z-Library,https://z-lib.org
+Internet Archive,https://archive.org
+Project MUSE,https://muse.jhu.edu
+DOAJ,https://doaj.org
+OpenAIRE,https://www.openaire.eu
+CORE,https://core.ac.uk
+BASE,https://www.base-search.net
+CERN,https://home.cern
+CITI,https://www.citiprogram.org
+NIH,https://www.nih.gov
+NSF,https://www.nsf.gov
+NASA,https://www.nasa.gov
+ESA,https://www.esa.int
+ISRO,https://www.isro.gov.in
+SpaceX,https://www.spacex.com
+Blue Origin,https://www.blueorigin.com
+Rocket Lab,https://www.rocketlabusa.com
+Planet Labs,https://www.planet.com
+Spire,https://spire.com
+ICEYE,https://www.iceye.com
+Capella,https://www.capellaspace.com
+Maxar,https://www.maxar.com
+Airbus,https://www.airbus.com
+Boeing,https://www.boeing.com
+Lockheed,https://www.lockheedmartin.com
+Northrop,https://www.northropgrumman.com
+Raytheon,https://www.rtx.com
+General Dynamics,https://www.gd.com
+L3Harris,https://www.l3harris.com
+Thales,https://www.thalesgroup.com
+Leonardo,https://www.leonardocompany.com
+BAE Systems,https://www.baesystems.com
+Saab,https://www.saab.com
+Rheinmetall,https://www.rheinmetall.com
+KNDS,https://www.knds.com
+Naval Group,https://www.naval-group.com
+Huntington Ingalls,https://hii.com
+Austal,https://www.austal.com
+Fincantieri,https://www.fincantieri.com
+Mitsubishi Heavy,https://www.mhi.com
+Kawasaki Heavy,https://www.khi.co.jp
+IHI,https://www.ihi.co.jp
+Doosan,https://www.doosan.com
+Hyundai Heavy,https://www.hhi.co.kr
+Samsung Heavy,https://www.samsungheavy.com
+DSME,https://www.dsme.co.kr
+STX,https://www.stx.com
+Wang,https://www.wang.com
+Dongfang,https://www.dongfang.com
+Harbin,https://www.harbin.com
+China Shipbuilding,https://www.cssc.net.cn
+CSIC,https://www.csic.com
+HHI,https://www.hhi.com
